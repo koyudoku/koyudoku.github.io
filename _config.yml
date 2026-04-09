@@ -162,18 +162,44 @@ navbar-var-length: false
 #footer-link-col: "#9A5A40"
 #footer-hover-col: "#804833"
 
-#yeni
+#yeni Saf Gri
+#page-col: "#1D1D1D"
+#text-col: "#FFFFFF"
+#link-col: "#B0B0B0"
+#hover-col: "#707070"
+#navbar-col: "#2A2A2A"
+#navbar-text-col: "#E0E0E0"
+#navbar-border-col: "#121212"
+#footer-col: "#2A2A2A"
+#footer-text-col: "#A0A0A0"
+#footer-link-col: "#B0B0B0"
+#footer-hover-col: "#707070"
+
+#Retro Hardal/Soluk Altın 
 page-col: "#1D1D1D"
 text-col: "#FFFFFF"
-link-col: "#B0B0B0"
-hover-col: "#707070"
+link-col: "#CBA153"
+hover-col: "#9E7A38"
 navbar-col: "#2A2A2A"
 navbar-text-col: "#E0E0E0"
 navbar-border-col: "#121212"
 footer-col: "#2A2A2A"
 footer-text-col: "#A0A0A0"
-footer-link-col: "#B0B0B0"
-footer-hover-col: "#707070"
+footer-link-col: "#CBA153"
+footer-hover-col: "#9E7A38"
+
+#Soluk Çelik Mavisi
+#page-col: "#1D1D1D"
+#text-col: "#FFFFFF"
+#link-col: "#6B8E9B"
+#hover-col: "#4A6B77"
+#navbar-col: "#2A2A2A"
+#navbar-text-col: "#E0E0E0"
+#navbar-border-col: "#121212"
+#footer-col: "#2A2A2A"
+#footer-text-col: "#A0A0A0"
+#footer-link-col: "#6B8E9B"
+#footer-hover-col: "#4A6B77"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

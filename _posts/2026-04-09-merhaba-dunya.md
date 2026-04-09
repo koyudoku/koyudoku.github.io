@@ -4,7 +4,12 @@ date: 2026-04-09T15:00:00+03:00
 title: "Merhaba Dünya: Gölgelere İlk Adım"
 tags: ["merhaba"]
 #author: 
+#cover-img: 
+thumbnail-img: /assets/img/2026/04/9-nisan-2026-Gemini_Generated_Image_66upj466upj466up.jpeg
+share-img: /assets/img/2026/04/9-nisan-2026-Gemini_Generated_Image_66upj466upj466up.jpeg
 ---
+
+![](/assets/img/2026/04/9-nisan-2026-Gemini_Generated_Image_66upj466upj466up.jpeg)
 
 Her yolculuk tek bir adımla, her fotoğraf tek bir deklanşör sesiyle başlar. Dijital dünyanın o klasikleşmiş geleneğine uyarak biz de serüvenimize **"Merhaba Dünya"** diyerek başlıyoruz. 
 

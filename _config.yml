@@ -150,17 +150,17 @@ navbar-var-length: false
 #footer-hover-col: "#0085A1"
 
 #yeni
-page-col: #1D1D1D
-text-col: #FFFFFF
-link-col: #9A5A40
-hover-col: #804833
-navbar-col: #2A2A2A
-navbar-text-col: #E0E0E0
-navbar-border-col: #121212
-footer-col: #2A2A2A
-footer-text-col: #A0A0A0
-footer-link-col: #9A5A40
-footer-hover-col: #804833
+page-col: "#1D1D1D"
+text-col: "#FFFFFF"
+link-col: "#9A5A40"
+hover-col: "#804833"
+navbar-col: "#2A2A2A"
+navbar-text-col: "#E0E0E0"
+navbar-border-col: "#121212"
+footer-col: "#2A2A2A"
+footer-text-col: "#A0A0A0"
+footer-link-col: "#9A5A40"
+footer-hover-col: "#804833"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
